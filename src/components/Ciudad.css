@@ -1,0 +1,50 @@
+.ciudad {
+  margin: 1rem;
+}
+
+.containerCiudad {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infoCity {
+  background-color: white;
+  margin-top: 0.5rem;
+  padding: 3rem;
+  border-radius: 0.5rem;
+}
+
+.infoCity > h2 {
+  font-size: 2.5rem;
+}
+
+.inf div {
+  margin: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.infoClima {
+  font-size: 1.25rem;
+}
+
+.goHome {
+  cursor: pointer;
+  background-color: cadetblue;
+  height: 2.5rem;
+  border-radius: 0.25rem;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  transition: all 0.5s ease;
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+  width: fit-content;
+  padding: 0 0.25rem;
+}
+
+.goHome:hover {
+  background-color: rgb(255, 255, 255);
+  color: cadetblue;
+}

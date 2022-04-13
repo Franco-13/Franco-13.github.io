@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: rgb(39, 39, 39);
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+a:hover {
+  text-decoration: none;
+}

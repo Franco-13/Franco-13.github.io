@@ -1,0 +1,42 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: cadetblue;
+  height: 9vh;
+}
+
+.navContainer span {
+  font-size: 1rem;
+  margin: 0 0.25rem;
+}
+
+.aBtn {
+  cursor: pointer;
+  background-color: #ffffff00;
+  height: 2.5rem;
+  border-radius: 0.25rem;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  transition: all 0.5s ease;
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.aBtn:hover {
+  background-color: rgb(255, 255, 255);
+  color: cadetblue;
+}
+
+.logoHenry {
+  width: 1.5rem;
+  padding-left: 0.25rem;
+}
+
+/* .henryBtn {
+  position: relative;
+} */
+
+@media screen and (max-width: 425px) {
+}

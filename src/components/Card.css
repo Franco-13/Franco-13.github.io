@@ -1,0 +1,70 @@
+.cardContainer {
+  display: inline-block;
+  border: 2px solid cadetblue;
+  width: 23rem;
+  margin: 1rem;
+  border-radius: 0.25rem;
+  background-color: cadetblue;
+  box-shadow: 0px 0px 13px 2px rgba(48, 167, 88, 0.35);
+  transition: all 0.5s ease;
+  height: fit-content;
+}
+
+.cardContainer:hover {
+  /* transform: scale(1.048); */
+  transform: scale(1.048);
+  transform-origin: 0% 0;
+}
+.cardContainer h2 {
+  color: azure;
+}
+
+.boton {
+  background-color: red;
+  width: 1.5rem;
+  border-radius: 0.25rem;
+  color: azure;
+  height: 1.5rem;
+  border: red;
+  font-size: 0.75rem;
+  display: block;
+  margin-left: auto;
+  cursor: pointer;
+  margin-top: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.temp {
+  display: flex;
+  justify-content: center;
+  color: azure;
+}
+
+.temp div {
+  padding: 0 1rem;
+  margin: 1rem 1rem 0 1rem;
+}
+
+.temp p {
+  font-weight: 500;
+}
+
+.temp img {
+  width: 7rem;
+  height: 7rem;
+  transition: all 0.5s ease;
+  animation: myAnim 3s ease 1s infinite normal forwards;
+}
+
+@keyframes myAnim {
+  0%,
+  50%,
+  100% {
+    transform: scale(1.2);
+  }
+
+  25%,
+  75% {
+    transform: scale(1);
+  }
+}

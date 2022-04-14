@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: cadetblue;
-  height: 9vh;
+  min-height: 9vh;
 }
 
 .navContainer span {

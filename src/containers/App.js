@@ -67,7 +67,6 @@ function App() {
     )
       .then((r) => r.json())
       .then((recurso) => {
-        console.log(recurso);
         if (recurso.main !== undefined) {
           const ciudad = {
             min: Math.round(recurso.main.temp_min),

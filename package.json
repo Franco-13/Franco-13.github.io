@@ -1,7 +1,7 @@
 {
   "name": "09-react-routing",
   "version": "1.0.0",
-  "homepage": "https://github.com/Franco-13/app-weather",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",

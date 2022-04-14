@@ -29,6 +29,7 @@ function App() {
 
     if (citiesLocalStorage.length) {
       for (let i = 0; i < citiesLocalStorage.length; i++) {
+        console.log(citiesLocalStorage[i].name);
         fetch(
           `http://api.openweathermap.org/data/2.5/weather?q=${citiesLocalStorage[i].name}&appid=${apiKey}&units=metric&lang=es`
         )
@@ -51,9 +52,10 @@ function App() {
               };
             }
           });
+        setCities((oldCities) => [...oldCities, citiesLocalStorage[i]]);
       }
       localStorage.setItem("cities", JSON.stringify(citiesLocalStorage));
-      setCities(citiesLocalStorage);
+      // setCities(citiesLocalStorage);
     } else {
       localStorage.setItem("cities", JSON.stringify([]));
     }

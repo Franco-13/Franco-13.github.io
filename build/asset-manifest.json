@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Franco-13/Franco-13.github.io/static/css/main.cc8aeef5.chunk.css",
+    "main.js": "/Franco-13/Franco-13.github.io/static/js/main.4977c1eb.chunk.js",
+    "main.js.map": "/Franco-13/Franco-13.github.io/static/js/main.4977c1eb.chunk.js.map",
+    "runtime-main.js": "/Franco-13/Franco-13.github.io/static/js/runtime-main.24fc11d4.js",
+    "runtime-main.js.map": "/Franco-13/Franco-13.github.io/static/js/runtime-main.24fc11d4.js.map",
+    "static/js/2.2a27ff6f.chunk.js": "/Franco-13/Franco-13.github.io/static/js/2.2a27ff6f.chunk.js",
+    "static/js/2.2a27ff6f.chunk.js.map": "/Franco-13/Franco-13.github.io/static/js/2.2a27ff6f.chunk.js.map",
+    "index.html": "/Franco-13/Franco-13.github.io/index.html",
+    "static/css/main.cc8aeef5.chunk.css.map": "/Franco-13/Franco-13.github.io/static/css/main.cc8aeef5.chunk.css.map",
+    "static/js/2.2a27ff6f.chunk.js.LICENSE.txt": "/Franco-13/Franco-13.github.io/static/js/2.2a27ff6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fc11d4.js",
+    "static/js/2.2a27ff6f.chunk.js",
+    "static/css/main.cc8aeef5.chunk.css",
+    "static/js/main.4977c1eb.chunk.js"
+  ]
+}

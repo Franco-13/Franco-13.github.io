@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/franco-13/app-weather/static/css/main.cc8aeef5.chunk.css",
-    "main.js": "/franco-13/app-weather/static/js/main.36f924eb.chunk.js",
-    "main.js.map": "/franco-13/app-weather/static/js/main.36f924eb.chunk.js.map",
-    "runtime-main.js": "/franco-13/app-weather/static/js/runtime-main.db619780.js",
-    "runtime-main.js.map": "/franco-13/app-weather/static/js/runtime-main.db619780.js.map",
-    "static/js/2.2a27ff6f.chunk.js": "/franco-13/app-weather/static/js/2.2a27ff6f.chunk.js",
-    "static/js/2.2a27ff6f.chunk.js.map": "/franco-13/app-weather/static/js/2.2a27ff6f.chunk.js.map",
-    "index.html": "/franco-13/app-weather/index.html",
-    "static/css/main.cc8aeef5.chunk.css.map": "/franco-13/app-weather/static/css/main.cc8aeef5.chunk.css.map",
-    "static/js/2.2a27ff6f.chunk.js.LICENSE.txt": "/franco-13/app-weather/static/js/2.2a27ff6f.chunk.js.LICENSE.txt"
+    "main.css": "/Franco-13/app-weather/static/css/main.cc8aeef5.chunk.css",
+    "main.js": "/Franco-13/app-weather/static/js/main.36f924eb.chunk.js",
+    "main.js.map": "/Franco-13/app-weather/static/js/main.36f924eb.chunk.js.map",
+    "runtime-main.js": "/Franco-13/app-weather/static/js/runtime-main.71d7ea2b.js",
+    "runtime-main.js.map": "/Franco-13/app-weather/static/js/runtime-main.71d7ea2b.js.map",
+    "static/js/2.2a27ff6f.chunk.js": "/Franco-13/app-weather/static/js/2.2a27ff6f.chunk.js",
+    "static/js/2.2a27ff6f.chunk.js.map": "/Franco-13/app-weather/static/js/2.2a27ff6f.chunk.js.map",
+    "index.html": "/Franco-13/app-weather/index.html",
+    "static/css/main.cc8aeef5.chunk.css.map": "/Franco-13/app-weather/static/css/main.cc8aeef5.chunk.css.map",
+    "static/js/2.2a27ff6f.chunk.js.LICENSE.txt": "/Franco-13/app-weather/static/js/2.2a27ff6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db619780.js",
+    "static/js/runtime-main.71d7ea2b.js",
     "static/js/2.2a27ff6f.chunk.js",
     "static/css/main.cc8aeef5.chunk.css",
     "static/js/main.36f924eb.chunk.js"
